@@ -9,6 +9,7 @@ Utilize project management tools to monitor progress and adjust plans as needed.
 Conduct regular progress reviews and communicate frequently with the team to identify and address potential delays early.
 Allocate resources effectively and ensure that the team is adequately staffed and skilled.
 Manage risks proactively by identifying potential obstacles early and planning mitigation strategies.
+
 2. How does effective cost control contribute to the success of a software project? What strategies can be used to prevent budget overruns?
 Effective cost control ensures that a software project stays within its budget, maximizing profitability and minimizing financial risk. It contributes to success by allowing for better resource allocation and avoiding financial strain that could derail the project. Strategies to prevent budget overruns include:
 
@@ -17,6 +18,7 @@ Regular monitoring of expenses against the budget to identify and correct varian
 Implementing a change control process to evaluate the impact of changes on the budget.
 Using cost management software to track expenditures in real-time.
 Allocating contingency funds for unforeseen expenses.
+
 3. Compare and contrast Agile and Waterfall methodologies. What are the main advantages and disadvantages of each?
 Agile Methodology:
 
@@ -26,6 +28,7 @@ Waterfall Methodology:
 
 Advantages: Structured and easy to understand, clear milestones and documentation, predictable timelines and budgets, suitable for projects with well-defined requirements.
 Disadvantages: Inflexible to changes after the project starts, late delivery of the final product, less client involvement during development, and potential for discovering issues late in the project.
+
 4. In what types of projects might Agile be more beneficial than Waterfall, and vice versa? Can you provide examples of each?
 Agile is more beneficial for projects where requirements are expected to change frequently, and rapid development cycles are needed. Examples include software startups developing new products, mobile app development, and projects involving close collaboration with end-users or clients.
 
